@@ -6,4 +6,6 @@ In case that the syntax is correct, the program will display a graphical interfa
 
 For the correct operation of the code is a must to have a directory, in a specific location, with the png images of the Chess pieces. Everything will be included in the directory uploaded.
 
-The PDF with all the instructions given by the professor will also be included in this repository.
+The PDF with all the instructions given by the professor will also be included in this repository. 
+
+The video in which the code is explained cannot be uploaded here, due to its size. 
